@@ -8,7 +8,7 @@ Run `npm install`, then `npm run compile:sass` to watch and compile Sass. Open `
 
 ## Author
 
-Author: [rajivranjanmars](https://rajivranjana.in).
+Author: [Rajiv Ranjan](https://rajivranjan.in).
 
 ## Credits
 
